@@ -27,7 +27,7 @@ The dataset used in this project is the "Global Superstore" dataset from Kaggle.
 
 ## Key Findings and Recommendations
 
-The analysis identifies four distinct customer segments based on CLV and average profit.  Detailed descriptions of each segment, along with tailored recommendations for marketing and sales strategies, are provided within the Jupyter Notebook (`global_superstore_analysis.ipynb`). Key areas of focus include:
+The analysis identifies four distinct customer segments based on CLV and average profit.  Detailed descriptions of each segment, along with tailored recommendations for marketing and sales strategies, are provided within the Jupyter Notebook (`Global_Super_Data.ipynb`). Key areas of focus include:
 
 *   **Identifying and addressing a low-value, unprofitable customer segment (Cluster 0).**
 *   **Developing strategies to increase the value of low-value, low-profitability customers (Cluster 1).**
