@@ -18,7 +18,7 @@ The analysis focuses on the following key areas:
 ## Repository Structure
 
 *   **`README.md`**: This file.
-*   **`notebooks/`**: Contains the Jupyter Notebook (`global_superstore_analysis.ipynb`) with the complete analysis.
+*   **`notebooks/`**: Contains the Jupyter Notebook (`Global_Super_Data.ipynb`) with the complete analysis.
 *   **`data/`**: Contains the `superstore.csv` dataset.  *It is assumed that the user has downloaded the dataset and placed it in this directory.*
 
 ## Data
