@@ -23,7 +23,7 @@ The analysis focuses on the following key areas:
 
 ## Data
 
-The dataset used in this project is the "Global Superstore" dataset from Kaggle. You can find the dataset here: [Insert Kaggle Dataset Link Here]. Download the dataset and save it as `superstore.csv` in the `data/` directory. The original dataset (.txt file) has be transform with R language to CSV file.
+The dataset used in this project is the "Global Superstore" dataset from Kaggle. You can find the dataset here: "https://www.kaggle.com/datasets/vivek468/superstore-dataset-final" . Download the dataset and save it as `superstore.csv` in the `data/` directory. The original dataset (.txt file) has be transform with R language to CSV file.
 
 ## Key Findings and Recommendations
 
